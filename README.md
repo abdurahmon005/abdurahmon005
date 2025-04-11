@@ -9,14 +9,12 @@
 
 
 
-- 🌱 I’m currently learning **M.E.R.N**
+- 🌱 I’m currently learning **PDP Academy**
 
-- 👨‍💻 All of my projects are available at 🙋‍♂️[PORTFOLIO](https://jairaj28.github.io/)
-
-- 💬 Ask me about **C++, C# >NET, Javascript,HTML,CSS.**
+- 💬 Ask me about **C++, C# .NET, Javascript,HTML,CSS.**
 
 - 📫 How to reach me **abdurahmon7985@gmail.com**
--  LINKEDIN [LINK_TO_ME](https://www.linkedin.com/in/jai-raj-singh-1491361b2/)
+-  LINKEDIN [LINK_TO_ME](https://www.linkedin.com/in/Abdurahmon-Muminov/)
 
 
  

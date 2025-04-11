@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **PDP Academy**
 
-- 💬 Ask me about **C++, C# .NET, Javascript,HTML,CSS.**
+- 💬 Ask me about **C++, C# .NET, Python, Javascript,HTML,CSS.**
 
 - 📫 How to reach me **abdurahmon7985@gmail.com**
 -  LINKEDIN [LINK_TO_ME](https://www.linkedin.com/in/Abdurahmon-Muminov/)

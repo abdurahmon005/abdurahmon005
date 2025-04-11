@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **abdurahmon7985@gmail.com**
 -  LINKEDIN [LINK_TO_ME](https://www.linkedin.com/in/Abdurahmon-Muminov/)
-- <img width="20px" src="https://i.ibb.co/JQxDZWH/telegram.png">[Telegram](https://t.me/abdurahmon_ikromovich/)
+- <img width="20px" src="https://i.ibb.co/JQxDZWH/telegram.png">   [Telegram](https://t.me/abdurahmon_ikromovich/)
 
  
 

@@ -7,7 +7,7 @@
 
 <p align="left">
 
- <img src="https://komarev.com/ghpvc/?username=jairaj28&label=Profile%20views&color=0e75b6&style=flat" alt="jairaj28" /> </p>
+
 
 - 🌱 I’m currently learning **M.E.R.N**
 

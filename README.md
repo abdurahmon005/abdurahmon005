@@ -1,1 +1,2 @@
-https://github.com/abdurahmon005/smart-walle
+![Wall-E](assets/walle.gif)
+

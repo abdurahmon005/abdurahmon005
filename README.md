@@ -1,2 +1,3 @@
-![Wall-E](assets/walle.gif)
+![Animated Banner](https://yourdomain.com/banner.gif)
+
 

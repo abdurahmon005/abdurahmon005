@@ -17,7 +17,7 @@
 -  LINKEDIN [LINK_TO_ME](https://www.linkedin.com/in/Abdurahmon-Muminov/)
 - <img width="20px" src="https://i.ibb.co/JQxDZWH/telegram.png">      [Telegram](https://t.me/abdurahmon_ikromovich/)
   
-- <img width="20px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg">
+- <img width="20px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg">     [Instagram](https://instagram.com/abdurahmon_ikromovich/)
  
 
 

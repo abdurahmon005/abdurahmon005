@@ -18,7 +18,7 @@
 - <img width="20px" src="https://i.ibb.co/JQxDZWH/telegram.png">      [ Telegram](https://t.me/abdurahmon_ikromovich/)
   
 - <img width="20px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg">     [ Instagram](https://instagram.com/abdurahmon_ikromovich/)
-- <img src="https://raw.githubusercontent.com/soroushchehresa/github-readme-linkedin/master/linkedin-github.png" width="20px" />
+
  
 
 

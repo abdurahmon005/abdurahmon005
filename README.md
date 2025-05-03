@@ -1,5 +1,4 @@
 <!-- ![Master-Header]() -->
-<img src = "https://tenor.com/beg4i.gif">
  
  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="100%" alt="Веб-разработчик сидит на стуле напротив большого количества мониторов компьютеров, слушает музыку в наушниках и пишет программный код">
 <h1 align="center">Abdurahmon Muminov</h1>

@@ -15,7 +15,7 @@
 - 💬 Ask me about **C++, C# .NET, Python, Javascript,HTML,CSS.**
 
 - 📫 How to reach me **abdurahmon7985@gmail.com**
--  LINKEDIN [LINK_TO_ME](https://www.linkedin.com/in/Abdurahmon-Muminov/)
+- <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="20px">  LINKEDIN [LINK_TO_ME](https://www.linkedin.com/in/Abdurahmon-Muminov/)
 - <img width="20px" src="https://i.ibb.co/JQxDZWH/telegram.png">      [ Telegram](https://t.me/abdurahmon_ikromovich/)
   
 - <img width="20px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg">     [ Instagram](https://instagram.com/abdurahmon_ikromovich/)

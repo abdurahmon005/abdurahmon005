@@ -3,7 +3,7 @@
 <h1 align="center">Abdurahmon Muminov</h1>
 <h3 align="center">.NET Web Developer from Uzbekistan</h3>
 <br/>
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
+  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="600" alt="Веб-разработчик сидит на стуле напротив большого количества мониторов компьютеров, слушает музыку в наушниках и пишет программный код">
 
 <p align="left">
 

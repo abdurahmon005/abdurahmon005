@@ -24,7 +24,11 @@
 
 
 <h1 align = "center"> MY ACHIEVEMENTS</h1>
+
  
+
+- [📄 .NET Sertifikatini ko‘rish](https://coursera.org/verify/ZL6EQY4O1FVX)
+
 
 
 

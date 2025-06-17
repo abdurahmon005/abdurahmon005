@@ -10,7 +10,7 @@
 
 
 
-- 🌱 I’m currently learning **PDP Academy**
+- 🌱 I’m currently learning Tashkent University of Information Technologies , **PDP Academy**
 
 - 💬 Ask me about **C++, C# .NET, Python, Javascript,HTML,CSS.**
 

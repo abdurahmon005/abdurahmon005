@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **abdurahmon7985@gmail.com**
 - <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="25px">    [LINKEDIN](https://www.linkedin.com/in/Abdurahmon-Muminov/)
-- <img width="20px" src="[[https://i.ibb.co/JQxDZWH/telegram.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmoein.video%2Fdownload-royalty-free-gif-with-free-after-effects-project%2Ftelegram-gif-telegram-icon-gif-animated-icon-royalty-free-after-effects-project%2F&psig=AOvVaw3_v1-p_9Amh0fDO6gFsC5t&ust=1750246866342000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKCL1uev-I0DFQAAAAAdAAAAABAE)](https://upload.wikimedia.org/wikipedia/commons/5/5c/Telegram_Messenger.png)">      [ Telegram](https://t.me/abdurahmon_ikromovich/)
+- <img width="20px" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Telegram_Messenger.png">      [ Telegram](https://t.me/abdurahmon_ikromovich/)
 
 - 
   

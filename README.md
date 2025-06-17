@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning Tashkent University of Information Technologies , **PDP Academy**
 
-- 💬 Ask me about **C++, C# .NET, Python, Javascript,HTML,CSS.**
+- 💬 My skills: C++,C# .NET, PostgreSQL
 
 - 📫 How to reach me **abdurahmon7985@gmail.com**
 - <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="25px">    [LINKEDIN](https://www.linkedin.com/in/Abdurahmon-Muminov/)

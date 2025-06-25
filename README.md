@@ -24,7 +24,7 @@
 
  
 
-- [📄 .NET Sertifikatini ko‘rish](https://coursera.org/verify/ZL6EQY4O1FVX)
+- [📄 View .NET certificate](https://coursera.org/verify/ZL6EQY4O1FVX)
 
 
 

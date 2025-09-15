@@ -9,7 +9,6 @@
 <p align="left">
 
 
-
 - 🌱 I’m currently learning Tashkent University of Information Technologies , **PDP Academy**
 
 - 💬 My skills: C++,C# .NET, PostgreSQL

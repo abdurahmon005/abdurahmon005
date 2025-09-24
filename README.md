@@ -14,6 +14,7 @@
 - 💬 My skills: C++,C# .NET, PostgreSQL
 
 - 📫 How to reach me **abdurahmon7985@gmail.com**
+- 
 <a href="https://linkedin.com/in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradeep-ranjan" height="30" width="40" /></a>   [LINKEDIN](https://www.linkedin.com/in/abdurahmonikromovich)
 - <img width="20px" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Telegram_Messenger.png">      [ Telegram](https://t.me/abdurahmon_ikromovich/)
 - <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="25">    [ Instagram](https://instagram.com/abdurahmon_ikromovich/)

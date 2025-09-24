@@ -17,7 +17,7 @@
 - 
 <a href="https://linkedin.com/in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradeep-ranjan" height="30" width="40" /></a>   [LINKEDIN](https://www.linkedin.com/in/abdurahmonikromovich)
 - <img width="20px" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Telegram_Messenger.png">      [ Telegram](https://t.me/abdurahmon_ikromovich/)
-- <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="25">    [ Instagram](https://instagram.com/abdurahmon_ikromovich/)
+<a href="https://instagram.com/tinywor1d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tinywor1d" height="30" width="40" /></a>  [ Instagram](https://instagram.com/abdurahmon_ikromovich/)
 
 
 <h1 align = "center"> MY ACHIEVEMENTS</h1>

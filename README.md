@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning Tashkent University of Information Technologies , **PDP Academy**
 
-- 💬 My skills: C++,C# .NET, PostgreSQL
+- 💬 My skills: C++, C#/. Net, Oop, Ef-core, Mssql/Postgresql, Linq, Asp. Net Web Api, Microservices, Ado. Net, Git/Github, Docker, Rest, Solid, Acid, Dry, Kiss, Yagni 
 
 - 📫 How to reach me **abdurahmon7985@gmail.com**
   

@@ -45,7 +45,7 @@
  
 
 <h1 align = "center"> MY ACHIEVEMENTS</h1>
-<a href = "https://www.coursera.org/account/accomplishments/verify/ZL6EQY4O1FVX"  <img src ="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~ZL6EQY4O1FVX/CERTIFICATE_LANDING_PAGE~ZL6EQY4O1FVX.jpeg"/></>
+<a href = "https://www.coursera.org/account/accomplishments/verify/ZL6EQY4O1FVX"></a> <img src ="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~ZL6EQY4O1FVX/CERTIFICATE_LANDING_PAGE~ZL6EQY4O1FVX.jpeg"/></>/>
  
 
  

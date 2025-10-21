@@ -20,6 +20,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <img src=" https://cdn-icons-png.flaticon.com/512/906/906324.png" alt="cplusplus" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   <img src="https://trivenisiteasset.blob.core.windows.net/trivenisiteasset-container/2025/01/dot-net-maui.png" alt="MAUI" width="40" height="40"/>

@@ -4,12 +4,10 @@
 <h1 align="center">Abdurahmon Muminov</h1>
 <h3 align="center">.NET Web Developer from Uzbekistan</h3>
 <br/>
-  
+ 
 
-<p align="left">
-
-<h4 align ="right">EDUCATION</h4>
-- 🌱 I’m currently learning Tashkent University of Information Technologies , **PDP Academy**
+<h4 align ="center">EDUCATION</h4>
+ 
 
 - 💬 My skills: C++, C#/. Net, Oop, Ef-core, Mssql/Postgresql, Linq, Asp. Net Web Api, Microservices, Ado. Net, Git/Github, Docker, Rest, Solid, Acid, Dry, Kiss, Yagni 
 

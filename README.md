@@ -8,8 +8,9 @@
 
 <h4 align ="center">EDUCATION</h4>
  
+  <img src=" https://api.logobank.uz/media/logos_png/TATU-01.png" alt="vs2022" width="40" height="40"/>
 
-- 💬 My skills: C++, C#/. Net, Oop, Ef-core, Mssql/Postgresql, Linq, Asp. Net Web Api, Microservices, Ado. Net, Git/Github, Docker, Rest, Solid, Acid, Dry, Kiss, Yagni 
+ 
 
 - 📫 How to reach me **abdurahmon7985@gmail.com**
   

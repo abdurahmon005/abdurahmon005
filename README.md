@@ -2,7 +2,7 @@
  
 <a href="https://rishavchanda.io"><img src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif" alt="MasterHead" width="1020" height="450"></a>
 <h1 align="center">Abdurahmon Muminov</h1>
-<h3 align="center">.NET Web Developer from Uzbekistan</h3>
+ 
 <br/>
  
 

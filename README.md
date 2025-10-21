@@ -5,12 +5,10 @@
  
 <br/>
  
-
 <h4 align ="center">EDUCATION</h4>
  
   <img src="https://api.logobank.uz/media/logos_png/TATU-01.png" alt="tuit" width="100" height="100"/>
-  <h6>Tashkent Information Technology
-          University</h6>
+  <h6>Tashkent Information Technology University</h6>
 
  
 - 📫 How to reach me **abdurahmon7985@gmail.com**

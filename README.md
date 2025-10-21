@@ -42,14 +42,13 @@
 
 
 
-
-
+ 
 
 <h1 align = "center"> MY ACHIEVEMENTS</h1>
 
- <img src ="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~ZL6EQY4O1FVX/CERTIFICATE_LANDING_PAGE~ZL6EQY4O1FVX.jpeg"/>
+<a href = "(https://coursera.org/verify/ZL6EQY4O1FVX)" <img src ="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~ZL6EQY4O1FVX/CERTIFICATE_LANDING_PAGE~ZL6EQY4O1FVX.jpeg"/></>
 
-- [📄 View .NET certificate](https://coursera.org/verify/ZL6EQY4O1FVX)
+ 
 
 
 

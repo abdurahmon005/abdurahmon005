@@ -26,7 +26,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt="dotnet" width="40" height="40"/>
   <img src="https://ideologylab.in/Uploads/Courses/adonet.png"  alt="adonet" width="40" height="40"/>
   <img src="https://www.prchecker.info/free-icons/128x128/asp_net_128_px.png"  alt="aspnet" width="40" height="40"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKR73B1UhoxSO1mWm_Fjuk4OqxRY6Qv0tBsfwVvDvmfu2Zf5uGgcdj-RAKxtxSZfKbCHA&usqp=CAU" alt="Logo" width="40" height="40" style="border-radius:50%;" />
+  <img src="https://codeopinion.com/wp-content/uploads/2017/10/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB.png" alt="Logo" width="40" height="40" style="border-radius:50%"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>

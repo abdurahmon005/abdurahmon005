@@ -5,12 +5,11 @@
  
 <br/>
  
-<h2 align ="center">EDUCATION</h2>
- 
-  <img src="https://api.logobank.uz/media/logos_png/TATU-01.png" alt="tuit" width="100" height="100"/>
-  <h6>Tashkent Information Technology University</h6>
-<img src="https://kursi24.uz/upload/iblock/da6/da6265bc15431b3bb429507ef969129d.jpeg" alt="pdp" width="100" height="100"/>
- 
+<h3 align="left">EDUCATION</h3>
+<p align="left">
+  <img src="https://api.logobank.uz/media/logos_png/TATU-01.png" alt="tuit" width="100" height="100"/><h6>Tashkent Information Technology University</h6>
+  <img src="https://kursi24.uz/upload/iblock/da6/da6265bc15431b3bb429507ef969129d.jpeg" alt="pdp" width="100" height="100"/>
+</p>
 
 
 

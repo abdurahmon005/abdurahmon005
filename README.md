@@ -8,7 +8,7 @@
 
 <h4 align ="center">EDUCATION</h4>
  
-  <img src=" https://api.logobank.uz/media/logos_png/TATU-01.png" alt="vs2022" width="40" height="40"/>
+  <img src="https://api.logobank.uz/media/logos_png/TATU-01.png" alt="tuit" width="40" height="40"/>
 
  
 

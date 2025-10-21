@@ -34,7 +34,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
  <img src="https://user-images.githubusercontent.com/14800051/28288788-5e6cba04-6b0e-11e7-9be9-9a68f30ebf3d.png"  alt="Unity" width="40" height="40"/>
-  <img src=""  alt="adonet" width="40" height="40"/>
+  <img   alt="adonet" width="40" height="40"/>
  </p>
 
 

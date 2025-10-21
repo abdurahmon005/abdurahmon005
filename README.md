@@ -9,7 +9,6 @@
  
   <img src="https://api.logobank.uz/media/logos_png/TATU-01.png" alt="tuit" width="100" height="100"/>
   <h6>Tashkent Information Technology University</h6>
-<!-- Badges template - https://github.com/abdurahmon005 -->
 
 
 

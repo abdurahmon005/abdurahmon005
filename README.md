@@ -43,6 +43,9 @@
 
 
  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdurahmon005&show_icons=true&locale=en&layout=compact" alt="Abdurahmon" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdurahmon005&show_icons=true&locale=en" alt="mehmonov-sherzod" /></p>
 
 
 

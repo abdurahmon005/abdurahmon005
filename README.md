@@ -28,7 +28,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   <img src="https://trivenisiteasset.blob.core.windows.net/trivenisiteasset-container/2025/01/dot-net-maui.png" alt="MAUI" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt="dotnet" width="40" height="40"/>
-  <img src="https://ideologylab.in/Uploads/Courses/adonet.png"  alt="adonet" width="40" height="40"/>
+  <img src="https://ideologylab.in/Uploads/Courses/adonet.png" alt="adonet" width="40" height="40"/>
   <img src="https://www.prchecker.info/free-icons/128x128/asp_net_128_px.png"  alt="aspnet" width="40" height="40"/>
   <img src="https://codeopinion.com/wp-content/uploads/2017/10/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB.png" alt="Logo" width="40" height="40" style="border-radius:50%"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
